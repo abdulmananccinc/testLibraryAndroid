@@ -1,4 +1,4 @@
-package com.sdk.toastlibrary
+package com.sdk.mylibrarytoast
 
 import org.junit.Test
 
